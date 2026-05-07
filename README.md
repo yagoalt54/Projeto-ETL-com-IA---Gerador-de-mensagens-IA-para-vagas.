@@ -1,0 +1,2 @@
+# Projeto-ETL-com-IA---Gerador-de-mensagens-IA-para-vagas.
+O Projeto consiste na pratica aplicada de conceitos ETL amplamente usado na área de dados como metodologia de passos essenciais no tratamento de dados e seus respectivos destinos, este projeto incorpora APIs de IA que geram a mensagem com uma simples engenharia de prompt e bibliotecas essenciais do Python para analise de dados, referencias DIO .
