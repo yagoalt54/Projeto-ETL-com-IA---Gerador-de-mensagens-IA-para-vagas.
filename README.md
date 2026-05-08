@@ -15,7 +15,7 @@ O Projeto é um pipeline completo de **ETL (Extract, Transform, Load)** que util
 ## 🔄 O Processo de ETL
 
 1.  **Extract (Extração)**: Leitura de bases de dados em CSV (`jobs.csv` e `users.csv`).
-OBS: Como a API da SantanderDevWeek2023 foi descontinuada, optei por armazenar os dados em um arquivo simples em CSV para que fosse a referencia de dados so projeto.   
+OBS: Como a API da SantanderDevWeek2023 foi descontinuada, optei por armazenar os dados em um arquivo simples em CSV para que fosse a referencia de dados do projeto.   
 3.  **Transform (Transformação)**:
     *   Filtragem de vagas específicas para a área de dados.
     *   Cálculo de score de compatibilidade baseado em competências (Skills).
